@@ -2,7 +2,7 @@
 ## Overview of Project: 
 - Our client, Steve, has requested a stock market analysis for the entire stock market and would like a easy button, similar to the one provided for the "All Stocks Analysis" workbook analyizing just 12 stocks.
 - Using refactoring of the code behind the button to run faster, and handle a larger set of data, a new workbook allows for analysis of a larger data set.
-- Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+- Using images and examples of code, below compares the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 - Below shows pre-rectoring macro for "All Stocks Analysis"
 ![InitialAllStocksAnalysis_Beg](https://user-images.githubusercontent.com/90797036/135362976-62b378ee-2579-4f8c-8949-d96196a6bcec.png)
 ![InitialAllStocksAnalysis_End](https://user-images.githubusercontent.com/90797036/135362980-fc1f1dbf-47bf-4512-ac2d-512b8e5c11a5.png)
