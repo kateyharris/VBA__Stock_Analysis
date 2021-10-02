@@ -9,6 +9,9 @@
 - Below shows the time to run pre-refactoring for the sample 12 stocks for each year
 ![InitialAllStocksAnalysis_2017](https://user-images.githubusercontent.com/90797036/135362997-6c878fe0-f44c-416b-8828-ccfea185d6cf.png)
 ![InitialAllStocksAnalysis_2018](https://user-images.githubusercontent.com/90797036/135363005-c8696acf-14d3-49a2-a204-c8036e38fc7b.png)
+- Below shows rectoring shaved time off the macro
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/90797036/135728625-31899542-7bc2-48e6-911e-8d4cb8003992.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/90797036/135728627-fd240ff5-284d-4b6a-95b8-21d80018b79c.png)
 
 ## Summary: 
 - In a summary statement, address the following questions.
